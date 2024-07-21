@@ -19,12 +19,12 @@
 }
 
 .hero h1{
-    font-size: 100px;
-    font-weight: 600;
+    font-size: 120px;
+    font-weight: 400;
     position: absolute;
     top: 5%;
-    left: 20%;
-    color: rgb(192, 218, 107);
+    left: 15%;
+    color: rgb(241, 241, 241);
 
 }
 
